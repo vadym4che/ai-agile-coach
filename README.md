@@ -18,13 +18,13 @@ This is my implementation of a full-stack application that enables users to gene
 * Apply prompt engineering techniques
 
 ## Design:
-Follow the provided Figma design for the application layout and
+Follow the provided [Figma design]: (https://www.figma.com/file/T3hfRXuZNCXEmNpru6UpQ1/Agile-Test-task?t
+ype=design&node-id=2902-6857&t=VAmxWRccQdZqRPqq-4) for the application layout and
 components:
-[https://www.figma.com/file/T3hfRXuZNCXEmNpru6UpQ1/Agile-Test-task?t
-ype=design&node-id=2902-6857&t=VAmxWRccQdZqRPqq-4]
-[1]: "./DOC/screen_1_start.png"
-[2]: "./DOC/screen_2_first.png"
-[3]: "./DOC/screen_1_last.png"
+
+![Preview image]: (/DOC/screen_1_start.png)
+![Preview image]: (./DOC/screen_2_first.png)
+![Preview image]: (./DOC/screen_1_last.png)
 
 ## Front-end Implementation:
 1. Implement a sidebar with navigation button for "AI Agile Coach"
