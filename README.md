@@ -18,13 +18,13 @@ This is my implementation of a full-stack application that enables users to gene
 * Apply prompt engineering techniques
 
 ## Design:
-Follow the provided [Figma design]: (https://www.figma.com/file/T3hfRXuZNCXEmNpru6UpQ1/Agile-Test-task?t
-ype=design&node-id=2902-6857&t=VAmxWRccQdZqRPqq-4) for the application layout and
+Follow the provided [Figma design](https://www.figma.com/file/T3hfRXuZNCXEmNpru6UpQ1/Agile-Test-task?type=design&node-id=2902-6857&t=VAmxWRccQdZqRPqq-4)
+ for the application layout and
 components:
 
-![Preview image]: (/DOC/screen_1_start.png)
-![Preview image]: (./DOC/screen_2_first.png)
-![Preview image]: (./DOC/screen_1_last.png)
+![Preview image](/DOC/screen_1_start.png)
+![Preview image](./DOC/screen_2_first.png)
+![Preview image](./DOC/screen_1_last.png)
 
 ## Front-end Implementation:
 1. Implement a sidebar with navigation button for "AI Agile Coach"
@@ -40,6 +40,6 @@ based on client context:
 assistant messages for the chat to make it work properly.
 
 ## Helpful Resources:
-Learn Prompting: [https://learnprompting.org/]
+Learn Prompting: [https://learnprompting.org/](https://learnprompting.org/)
 OpenAI API Documentation:
-[https://platform.openai.com/docs/api-reference/]
+[https://platform.openai.com/docs/api-reference/](https://platform.openai.com/docs/api-reference/)
