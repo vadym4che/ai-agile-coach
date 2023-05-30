@@ -22,12 +22,12 @@ Follow the provided [Figma design](https://www.figma.com/file/T3hfRXuZNCXEmNpru6
  for the application layout and
 components:
 
-![Preview image](/DOC/screen_1_start.png)
-<img src="/DOC/screen_1_start.png" alt="preview1" style="max-width: 50%px; height: auto;">
-![Preview image](/DOC/screen_2_first.png)
-<img src="/DOC/screen_2_first.png" alt="preview2" style="max-width: 50%px; height: auto;">
-![Preview image](/DOC/screen_3_last.png)
-<img src="/DOC/screen_3_last.png" alt="preview3" style="max-width: 50%px; height: auto;">
+<!-- ![Preview image](/DOC/screen_1_start.png) -->
+<img src="/DOC/screen_1_start.png" alt="preview1" style="max-width: 50%; height: auto;">
+<!-- ![Preview image](/DOC/screen_2_first.png) -->
+<img src="/DOC/screen_2_first.png" alt="preview2" style="max-width: 50%; height: auto;">
+<!-- ![Preview image](/DOC/screen_3_last.png) -->
+<img src="/DOC/screen_3_last.png" alt="preview3" style="max-width: 50%; height: auto;">
 
 ## Front-end Implementation:
 1. Implement a sidebar with navigation button for "AI Agile Coach"
