@@ -1,4 +1,4 @@
-# ai-agile-coach
+# AI-Agile-Coach
 ## Objective:
 This is my implementation of a full-stack application that enables users to generate user stories and seek advice from an AI Coach based on Agile principles. The application must include prompts for AI Coach chat. Research and utilize information on Agile principles from various sources to complete the task.
 
@@ -22,6 +22,9 @@ Follow the provided Figma design for the application layout and
 components:
 [https://www.figma.com/file/T3hfRXuZNCXEmNpru6UpQ1/Agile-Test-task?t
 ype=design&node-id=2902-6857&t=VAmxWRccQdZqRPqq-4]
+[1]: "./DOC/screen_1_start.png"
+[2]: "./DOC/screen_2_first.png"
+[3]: "./DOC/screen_1_last.png"
 
 ## Front-end Implementation:
 1. Implement a sidebar with navigation button for "AI Agile Coach"
